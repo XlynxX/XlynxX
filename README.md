@@ -1,6 +1,5 @@
 <h3 align="center">Describing myself as a Junior Full Stack Developer.</h3>
-<h5>Hey! Nice to meet you, im still learning a lot of new things!</h5>
-<p>Visit my personal web page to get more about me: xlynxx.com</p>
+<h4>Visit my personal web page to get more about me:</h4><a href=""xlynxx.com">www.xlynxx.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank">
