@@ -1,5 +1,6 @@
 <h3 align="center">Describing myself as a Junior Full Stack Developer.</h3>
 <p>More about me at <a style="background-color: red;" href="http://xlynxx.com/">www.xlynxx.com</a></p>
+[![AltText](ImageLink)](redirectlink)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank">
