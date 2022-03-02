@@ -1,6 +1,5 @@
 <h3 align="center">Describing myself as a Junior Full Stack Web Developer.</h3>
 <p>More about me at <a href="https://xlynxx.ru/">XlynxX.ru</a> (WIP)</p>
-<!-- QuizTerra Widget BEGIN --><div data-quizterra-container><div data-quizterra-embed="2805418a01bcb15d0b7f66034a8fc988" data-quizterra-quiz="ru/kto-ty-iz-multika-moj-malenkij-poni"></div><script async defer crossorigin="anonymous" src="https://quizterra.com/embed.js"></script><a data-quizterra-link href="https://quizterra.com/">Quizterra</a></div><!-- QuizTerra Widget END -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank">
         <img class="m-5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
