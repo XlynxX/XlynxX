@@ -1,5 +1,5 @@
 <h3 align="center">Describing myself as a Junior Full Stack Web Developer.</h3>
-<p>More about me at <a href="https://xlynxx.ru/">XlynxX.ru</a> (WIP)</p>
+<p>~~More about me at <a href="https://xlynxx.ru/">XlynxX.ru</a> (WIP)~~</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank">
         <img class="m-5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
