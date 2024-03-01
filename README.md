@@ -1,4 +1,4 @@
-<h3 align="center">Describing myself as a Junior Full Stack Web Developer.</h3>
+<h3 align="center">Describing myself as a Full Stack Web Developer.</h3>
 <s>More about me at <a href="https://xlynxx.ru/">XlynxX.ru</a> (WIP)</s>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank">
