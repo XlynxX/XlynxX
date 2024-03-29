@@ -22,8 +22,6 @@
             width="30px" height="30px" /> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
         <img class="m-5" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40"
             height="40" /> </a> <a href="https://nextjs.org/" target="_blank">
-        <img class="m-5" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="30px" height="30px" /> </a> <a
-        href="https://nodejs.org" target="_blank">
         <img class="m-5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="30px" height="30px" /> </a> <a href="https://postman.com" target="_blank">
         <img class="m-5" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
